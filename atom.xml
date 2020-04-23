@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://eelsee.github.io</id>
+    <id>https://namkit.github.io</id>
     <title>Gridea</title>
-    <updated>2020-04-22T06:34:00.741Z</updated>
+    <updated>2020-04-23T04:49:22.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://eelsee.github.io"/>
-    <link rel="self" href="https://eelsee.github.io/atom.xml"/>
+    <link rel="alternate" href="https://namkit.github.io"/>
+    <link rel="self" href="https://namkit.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://eelsee.github.io/images/avatar.png</logo>
-    <icon>https://eelsee.github.io/favicon.ico</icon>
+    <logo>https://namkit.github.io/images/avatar.png</logo>
+    <icon>https://namkit.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://eelsee.github.io/post/test/</id>
-        <link href="https://eelsee.github.io/post/test/">
+        <id>https://namkit.github.io/post/test/</id>
+        <link href="https://namkit.github.io/post/test/">
         </link>
         <updated>2020-04-21T02:34:37.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://eelsee.github.io/post/hello-gridea/</id>
-        <link href="https://eelsee.github.io/post/hello-gridea/">
+        <id>https://namkit.github.io/post/hello-gridea/</id>
+        <link href="https://namkit.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
