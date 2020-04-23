@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namkit.github.io</id>
     <title>Namkit</title>
-    <updated>2020-04-23T04:58:35.930Z</updated>
+    <updated>2020-04-23T05:02:00.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://namkit.github.io"/>
     <link rel="self" href="https://namkit.github.io/atom.xml"/>
@@ -11,12 +11,20 @@
     <icon>https://namkit.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Namkit</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://namkit.github.io/post/test/</id>
-        <link href="https://namkit.github.io/post/test/">
+        <title type="html"><![CDATA[为什么使用Adobe XD 设计？]]></title>
+        <id>https://namkit.github.io/post/adobe_xd/</id>
+        <link href="https://namkit.github.io/post/adobe_xd/">
         </link>
         <updated>2020-04-21T02:34:37.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
+        <content type="html"><![CDATA[<p>用过才知道，Adobe XD是真香。因为免费、跨平台、好用，自从用上它，使用PS的时间就减少了，效率也提高了。Adobe XD是一款 UX/UI设计应用，可以进行应用、网页设计，以及原型制作。我主要作为原型制作和网页设计的工具使用。</p>
+<p>使用Adobe XD 的原因包括：</p>
+<ol>
+<li>容易入门。不论是否使用过Adobe 的应用，Adobe 都是很容易入门的，因为它的功能并不多，只要在B站看一部3小时的教程就能把功能摸透；</li>
+<li>轻量。Photoshop、Illustrator、InDesign 等应用的启动时间约12秒；Adobe XD 则只需约2秒。使用过程很流畅，在设计10多个宽1920px的页面后依然不卡顿，而源文件只有50M左右；</li>
+<li>提高效率。除了上面提到的轻量外，Adobe XD 还有提高效率的功能，例如“重复网格”、“资源”、“组件”、“插件”等，在界面设计上也有很多提高操作的亮点。以往用 Photoshop 需要一个上午设计一个页面，而在Adobe XD上可能只需一小时就能完成。</li>
+<li>免费。这点也是很关键的，虽然近几年付费习惯已经养成，但是“免费又好用”的原则永远都是我的第一选择。</li>
+</ol>
+<p>虽然使用Adobe XD导致使用 Photoshop 的频率减少，但是它不会替代Photoshop。因为 Adobe XD 的功能简单，所以有很大的局限性。它不适合比较精细的工作，例如图标制作和扁平化意外的工作，所以这些工作还是要交回到 Photoshop、Illustrator 等工具完成。正所谓术业有专攻，不需要在一个软件里将所有的工作都囊括。</p>
 ]]></content>
     </entry>
     <entry>
